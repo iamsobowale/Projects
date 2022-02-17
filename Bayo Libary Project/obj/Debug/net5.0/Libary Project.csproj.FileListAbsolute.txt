@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\Libary Project.exe
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\Libary Project.deps.json
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\Libary Project.runtimeconfig.json
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\Libary Project.runtimeconfig.dev.json
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\Libary Project.dll
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\ref\Libary Project.dll
+C:\Users\user\Desktop\c#\Libary Project\bin\Debug\net5.0\Libary Project.pdb
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.AssemblyInfo.cs
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.dll
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\ref\Libary Project.dll
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.pdb
+C:\Users\user\Desktop\c#\Libary Project\obj\Debug\net5.0\Libary Project.genruntimeconfig.cache
